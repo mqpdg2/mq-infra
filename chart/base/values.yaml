@@ -93,6 +93,6 @@ tracing:
   enabled: false
   namespace: ""
 
-security: false
+security: true
 
 ha: false
